@@ -3,7 +3,7 @@ To install please install linux first
 
 ## Instlal discord on chromeos
 
-To install please install the file above
+To install please install the file here https://www.mediafire.com/file/rnlfoj3g8fwx79n/discordinstall.deb/file
 
 ## Install betterdiscordctl (needed)
 
